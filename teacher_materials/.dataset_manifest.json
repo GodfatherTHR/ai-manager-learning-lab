@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-03T18:22:33+06:00",
+  "files": {
+    "customer_feedback.csv": {
+      "size": 4710,
+      "sha256": "4e0d1dfed1719ac8e0ce13e06309d2237f44625d7e7d7ccf04579b476dd77f38"
+    },
+    "employees.csv": {
+      "size": 11243502,
+      "sha256": "2b1e07caf58e7678a780d428c1a8893a95d9c4a556134fd8e7368db5ed596cdb"
+    },
+    "expenses.csv": {
+      "size": 23396,
+      "sha256": "50b3f4f8f89fa2bdf91097eda3ab8ce410558f2759910f75b09af3b8c5048d83"
+    },
+    "headcount_plan.csv": {
+      "size": 1014,
+      "sha256": "d02c1a8d7eefd3cfd03fae52c2ce164d3f4d72c1ff6531154cc8b8c533850da0"
+    },
+    "inventory.csv": {
+      "size": 9174,
+      "sha256": "4f8338c1890faa8f94f364a640c685d9372cb4b3e3da4104a128abce76db13e5"
+    },
+    "sales.csv": {
+      "size": 81107,
+      "sha256": "e7bc962f2e98e0d0ed5c2e004992b3c49c8deb0dfe0e565825a39fe6daecafe8"
+    },
+    "tasks.csv": {
+      "size": 5136,
+      "sha256": "6a457423445d6bb24c17a5b65938baedcc2836d72a4ac6f9c2d49bf53f34b9d2"
+    },
+    "company_policies.md": {
+      "size": 11105,
+      "sha256": "851503b335971caaf53580cf7f2bf95fa85e528adb4c779f368ab4fc99ff0bc4"
+    },
+    "company_profile.md": {
+      "size": 10361,
+      "sha256": "9eb294400de88a438c83d917e6e890bf39e5dd6a70620839a9c129f5e83431e0"
+    },
+    "data_dictionary.md": {
+      "size": 10822,
+      "sha256": "10e29a5c7d5953c538c6177a2a6461265cce2ff6151541b8ced19c6ff2b35487"
+    },
+    "management_committee_minutes.md": {
+      "size": 6996,
+      "sha256": "478c45b7ca1d3b9338782a79b6e3b2cffe4cc21a8fd8afe530d321bb770b66c4"
+    },
+    "operations_manual.md": {
+      "size": 8262,
+      "sha256": "b3f3a63640551a8f60e5b93dbcc040efd913f8b9fa854b12dfd1e4d107c13604"
+    },
+    "organization_structure.md": {
+      "size": 5988,
+      "sha256": "ed2877cd5c881ce4dfdcd84844cc4f7c54551a645145725e2278e2c782daad00"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ai-manager-lab": {
+      "command": "py",
+      "args": ["tools/mcp_server.py"],
+      "env": {}
+    }
+  }
+}

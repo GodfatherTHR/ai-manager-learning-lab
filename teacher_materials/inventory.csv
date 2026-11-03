@@ -1,0 +1,73 @@
+SKU,Product_Name,Product_Line,Warehouse,Units_On_Hand,Units_On_Order,Avg_Weekly_Demand,Safety_Stock,Reorder_Point,Lead_Time_Days,Weeks_Of_Supply,Unit_Cost,Unit_Price,Last_Stocktake,Stock_Status
+HOM-001,Harbor Ceramic Dinner Set,Home Essentials,North DC,2211,181,564,927,2780,23,3.92,18.0,44.0,2026-09-18,Below Reorder Point
+HOM-001,Harbor Ceramic Dinner Set,Home Essentials,South DC,2257,136,454,584,1751,18,4.97,18.0,44.0,2026-09-24,Healthy
+HOM-001,Harbor Ceramic Dinner Set,Home Essentials,East DC,1181,409,446,796,2389,25,2.65,18.0,44.0,2026-09-25,Below Reorder Point
+HOM-001,Harbor Ceramic Dinner Set,Home Essentials,West DC,841,339,337,506,1517,21,2.5,18.0,44.0,2026-09-29,Below Reorder Point
+HOM-002,Harbor Storage Bins (4-pack),Home Essentials,North DC,1774,596,654,1028,3083,22,2.71,9.0,26.0,2026-09-16,Below Reorder Point
+HOM-002,Harbor Storage Bins (4-pack),Home Essentials,South DC,1935,237,665,760,2280,16,2.91,9.0,26.0,2026-09-17,Below Reorder Point
+HOM-002,Harbor Storage Bins (4-pack),Home Essentials,East DC,1882,480,687,834,2502,17,2.74,9.0,26.0,2026-09-28,Below Reorder Point
+HOM-002,Harbor Storage Bins (4-pack),Home Essentials,West DC,1697,520,491,631,1894,18,3.46,9.0,26.0,2026-09-19,Healthy
+HOM-003,Harbor Cotton Towel Set,Home Essentials,North DC,2415,442,935,1002,3006,15,2.58,7.5,22.0,2026-09-19,Below Reorder Point
+HOM-003,Harbor Cotton Towel Set,Home Essentials,South DC,3270,725,842,662,1985,11,3.88,7.5,22.0,2026-09-27,Healthy
+HOM-003,Harbor Cotton Towel Set,Home Essentials,East DC,4329,1116,932,865,2596,13,4.64,7.5,22.0,2026-09-18,Healthy
+HOM-003,Harbor Cotton Towel Set,Home Essentials,West DC,2200,806,725,829,2486,16,3.03,7.5,22.0,2026-09-18,Healthy
+HOM-004,Harbor Kitchen Scale,Home Essentials,North DC,2519,51,440,911,2734,29,5.72,11.0,29.0,2026-09-19,Below Reorder Point
+HOM-004,Harbor Kitchen Scale,Home Essentials,South DC,693,300,272,408,1224,21,2.55,11.0,29.0,2026-09-29,Below Reorder Point
+HOM-004,Harbor Kitchen Scale,Home Essentials,East DC,1034,81,355,609,1826,24,2.91,11.0,29.0,2026-09-30,Below Reorder Point
+HOM-004,Harbor Kitchen Scale,Home Essentials,West DC,731,231,249,498,1494,28,2.94,11.0,29.0,2026-09-20,Below Reorder Point
+HOM-005,Harbor LED Desk Lamp,Home Essentials,North DC,1877,246,334,787,2362,33,5.62,13.0,34.0,2026-09-24,Below Reorder Point
+HOM-005,Harbor LED Desk Lamp,Home Essentials,South DC,1303,285,270,521,1562,27,4.83,13.0,34.0,2026-09-28,Healthy
+HOM-005,Harbor LED Desk Lamp,Home Essentials,East DC,1259,369,336,696,2088,29,3.75,13.0,34.0,2026-09-17,Below Reorder Point
+HOM-005,Harbor LED Desk Lamp,Home Essentials,West DC,817,36,203,493,1479,34,4.02,13.0,34.0,2026-09-15,Below Reorder Point
+HOM-006,Harbor Air Purifier Mini,Home Essentials,North DC,976,116,208,475,1426,32,4.69,41.0,89.0,2026-09-18,Below Reorder Point
+HOM-006,Harbor Air Purifier Mini,Home Essentials,South DC,483,126,164,469,1406,40,2.95,41.0,89.0,2026-09-23,Below Reorder Point
+HOM-006,Harbor Air Purifier Mini,Home Essentials,East DC,773,8,221,600,1800,38,3.5,41.0,89.0,2026-09-18,Below Reorder Point
+HOM-006,Harbor Air Purifier Mini,Home Essentials,West DC,487,144,165,412,1237,35,2.95,41.0,89.0,2026-09-28,Below Reorder Point
+SEA-001,Terra Patio Chair,Seasonal Living,North DC,1335,588,407,814,2442,28,3.28,32.0,79.0,2026-09-18,Below Reorder Point
+SEA-001,Terra Patio Chair,Seasonal Living,South DC,2498,217,274,646,1938,33,9.12,32.0,79.0,2026-09-26,Overstock
+SEA-001,Terra Patio Chair,Seasonal Living,East DC,2016,509,378,864,2592,32,5.33,32.0,79.0,2026-09-30,Below Reorder Point
+SEA-001,Terra Patio Chair,Seasonal Living,West DC,2572,145,220,409,1226,26,11.69,32.0,79.0,2026-09-19,Overstock
+SEA-002,Terra Outdoor Planter,Seasonal Living,North DC,1590,219,527,903,2710,24,3.02,8.0,24.0,2026-09-29,Below Reorder Point
+SEA-002,Terra Outdoor Planter,Seasonal Living,South DC,5566,100,589,841,2524,20,9.45,8.0,24.0,2026-09-19,Overstock
+SEA-002,Terra Outdoor Planter,Seasonal Living,East DC,910,889,637,1046,3139,23,1.43,8.0,24.0,2026-09-27,Below Safety Stock
+SEA-002,Terra Outdoor Planter,Seasonal Living,West DC,5070,49,517,886,2659,24,9.81,8.0,24.0,2026-09-22,Overstock
+SEA-003,Terra Holiday Light Set,Seasonal Living,North DC,2499,383,1081,1390,4170,18,2.31,5.5,19.0,2026-09-16,Below Reorder Point
+SEA-003,Terra Holiday Light Set,Seasonal Living,South DC,9517,192,1014,1449,4346,20,9.39,5.5,19.0,2026-09-24,Overstock
+SEA-003,Terra Holiday Light Set,Seasonal Living,East DC,5460,1372,978,1327,3982,19,5.58,5.5,19.0,2026-09-30,Healthy
+SEA-003,Terra Holiday Light Set,Seasonal Living,West DC,7343,171,614,658,1974,15,11.96,5.5,19.0,2026-09-24,Overstock
+SEA-004,Terra Picnic Blanket,Seasonal Living,North DC,1862,52,411,616,1849,21,4.53,12.0,36.0,2026-09-19,Healthy
+SEA-004,Terra Picnic Blanket,Seasonal Living,South DC,3845,47,353,630,1891,25,10.89,12.0,36.0,2026-09-25,Overstock
+SEA-004,Terra Picnic Blanket,Seasonal Living,East DC,1192,185,416,773,2318,26,2.87,12.0,36.0,2026-09-21,Below Reorder Point
+SEA-004,Terra Picnic Blanket,Seasonal Living,West DC,2804,240,310,531,1594,24,9.05,12.0,36.0,2026-09-18,Overstock
+SEA-005,Terra Garden Tool Kit,Seasonal Living,North DC,700,39,320,571,1714,25,2.19,17.0,49.0,2026-09-22,Below Reorder Point
+SEA-005,Terra Garden Tool Kit,Seasonal Living,South DC,2660,172,292,501,1502,24,9.11,17.0,49.0,2026-09-22,Overstock
+SEA-005,Terra Garden Tool Kit,Seasonal Living,East DC,1368,80,325,627,1881,27,4.21,17.0,49.0,2026-09-29,Below Reorder Point
+SEA-005,Terra Garden Tool Kit,Seasonal Living,West DC,2574,92,215,476,1428,31,11.97,17.0,49.0,2026-09-16,Overstock
+SEA-006,Terra Cooler 24L,Seasonal Living,North DC,1077,28,240,583,1749,34,4.49,28.0,69.0,2026-09-20,Below Reorder Point
+SEA-006,Terra Cooler 24L,Seasonal Living,South DC,2592,91,255,619,1858,34,10.16,28.0,69.0,2026-09-28,Overstock
+SEA-006,Terra Cooler 24L,Seasonal Living,East DC,473,188,246,597,1792,34,1.92,28.0,69.0,2026-09-25,Below Safety Stock
+SEA-006,Terra Cooler 24L,Seasonal Living,West DC,1726,86,159,341,1022,30,10.86,28.0,69.0,2026-09-19,Overstock
+ELE-001,Lumen Wireless Earbuds,Consumer Electronics,North DC,1337,2038,912,2345,7035,36,1.47,29.0,79.0,2026-09-25,Below Safety Stock
+ELE-001,Lumen Wireless Earbuds,Consumer Electronics,South DC,1249,378,753,1560,4680,29,1.66,29.0,79.0,2026-09-25,Below Safety Stock
+ELE-001,Lumen Wireless Earbuds,Consumer Electronics,East DC,1007,1445,651,1488,4464,32,1.55,29.0,79.0,2026-09-21,Below Safety Stock
+ELE-001,Lumen Wireless Earbuds,Consumer Electronics,West DC,2627,272,490,1295,3885,37,5.36,29.0,79.0,2026-09-17,Below Reorder Point
+ELE-002,Lumen Smart Plug,Consumer Electronics,North DC,1516,2112,1023,1461,4384,20,1.48,7.0,22.0,2026-09-16,Below Reorder Point
+ELE-002,Lumen Smart Plug,Consumer Electronics,South DC,4184,703,793,1246,3738,22,5.28,7.0,22.0,2026-09-29,Healthy
+ELE-002,Lumen Smart Plug,Consumer Electronics,East DC,860,2002,757,1027,3082,19,1.14,7.0,22.0,2026-09-15,Below Safety Stock
+ELE-002,Lumen Smart Plug,Consumer Electronics,West DC,2285,381,755,1240,3721,23,3.03,7.0,22.0,2026-09-29,Below Reorder Point
+ELE-003,Lumen Bluetooth Speaker,Consumer Electronics,North DC,744,1058,463,893,2679,27,1.61,34.0,89.0,2026-09-27,Below Safety Stock
+ELE-003,Lumen Bluetooth Speaker,Consumer Electronics,South DC,1736,32,428,1009,3027,33,4.06,34.0,89.0,2026-09-21,Below Reorder Point
+ELE-003,Lumen Bluetooth Speaker,Consumer Electronics,East DC,1086,560,530,1174,3521,31,2.05,34.0,89.0,2026-09-18,Below Safety Stock
+ELE-003,Lumen Bluetooth Speaker,Consumer Electronics,West DC,1615,403,369,738,2214,28,4.38,34.0,89.0,2026-09-29,Below Reorder Point
+ELE-004,Lumen Fitness Band,Consumer Electronics,North DC,1311,1299,631,1442,4327,32,2.08,26.0,69.0,2026-09-28,Below Safety Stock
+ELE-004,Lumen Fitness Band,Consumer Electronics,South DC,1452,652,518,1258,3774,34,2.8,26.0,69.0,2026-09-29,Below Reorder Point
+ELE-004,Lumen Fitness Band,Consumer Electronics,East DC,793,1279,473,1149,3446,34,1.68,26.0,69.0,2026-09-16,Below Safety Stock
+ELE-004,Lumen Fitness Band,Consumer Electronics,West DC,1688,10,384,1042,3127,38,4.4,26.0,69.0,2026-09-28,Below Reorder Point
+ELE-005,Lumen 4K Streaming Stick,Consumer Electronics,North DC,843,1072,819,1696,5089,29,1.03,21.0,54.0,2026-09-28,Below Safety Stock
+ELE-005,Lumen 4K Streaming Stick,Consumer Electronics,South DC,4385,209,733,1571,4712,30,5.98,21.0,54.0,2026-09-25,Below Reorder Point
+ELE-005,Lumen 4K Streaming Stick,Consumer Electronics,East DC,1964,2586,931,1729,5187,26,2.11,21.0,54.0,2026-09-16,Below Reorder Point
+ELE-005,Lumen 4K Streaming Stick,Consumer Electronics,West DC,1217,174,571,1101,3303,27,2.13,21.0,54.0,2026-09-22,Below Reorder Point
+ELE-006,Lumen Power Bank 20K,Consumer Electronics,North DC,714,1222,654,1121,3363,24,1.09,16.0,45.0,2026-09-21,Below Safety Stock
+ELE-006,Lumen Power Bank 20K,Consumer Electronics,South DC,2958,834,710,1369,4108,27,4.17,16.0,45.0,2026-09-29,Below Reorder Point
+ELE-006,Lumen Power Bank 20K,Consumer Electronics,East DC,1220,1191,816,1574,4721,27,1.5,16.0,45.0,2026-09-29,Below Safety Stock
+ELE-006,Lumen Power Bank 20K,Consumer Electronics,West DC,3078,647,551,826,2479,21,5.59,16.0,45.0,2026-09-17,Healthy

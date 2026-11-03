@@ -1,0 +1,211 @@
+Month,Category,Department,Budget,Actual,Variance,Variance_Pct,Notes
+2025-01,Payroll,HR,579115691.66,576234519.07,-2881172.6,-0.5,"Base payroll for 89,990 active employees."
+2025-01,Rent & Facilities,Operations,62362384.22,62052123.6,-310260.62,-0.5,Lease escalation and facility maintenance.
+2025-01,Marketing,Marketing,82413589.89,82003572.03,-410017.86,-0.5,Planned brand and demand-generation spend.
+2025-01,Logistics,Operations,49413945.91,49168105.38,-245840.53,-0.5,Base freight and distribution cost.
+2025-01,Technology,IT,37317043.94,37131387.01,-185656.94,-0.5,Core platforms and infrastructure.
+2025-01,Customer Support,Customer Support,19761702.29,19663385.36,-98316.93,-0.5,Service operations and contact-centre support.
+2025-01,Utilities,Operations,11857732.71,11798739.02,-58993.7,-0.5,Seasonal energy costs.
+2025-01,Supplies,Operations,14341616.9,14270265.57,-71351.33,-0.5,Warehouse consumables and packaging.
+2025-01,Professional Services,Legal,8372961.57,8331305.05,-41656.53,-0.5,External audit and legal advisory.
+2025-01,Other,Finance,9072620.71,9027483.29,-45137.42,-0.5,"Insurance, travel and miscellaneous."
+2025-02,Payroll,HR,578717282.48,575838092.02,-2879190.46,-0.5,"Base payroll for 89,990 active employees."
+2025-02,Rent & Facilities,Operations,62334629.49,62024506.96,-310122.53,-0.5,Lease escalation and facility maintenance.
+2025-02,Marketing,Marketing,76042057.05,75663738.36,-378318.69,-0.5,Planned brand and demand-generation spend.
+2025-02,Logistics,Operations,48216901.91,47977016.82,-239885.08,-0.5,Base freight and distribution cost.
+2025-02,Technology,IT,36355475.31,36174602.29,-180873.01,-0.5,Core platforms and infrastructure.
+2025-02,Customer Support,Customer Support,19214384.14,19118790.18,-95593.95,-0.5,Service operations and contact-centre support.
+2025-02,Utilities,Operations,11173100.37,11117512.81,-55587.56,-0.5,Seasonal energy costs.
+2025-02,Supplies,Operations,14384841.06,14313274.69,-71566.37,-0.5,Warehouse consumables and packaging.
+2025-02,Professional Services,Legal,8120289.52,8079890.07,-40399.45,-0.5,External audit and legal advisory.
+2025-02,Other,Finance,8997039.69,8952278.29,-44761.39,-0.5,"Insurance, travel and miscellaneous."
+2025-03,Payroll,HR,579827359.95,576942646.72,-2884713.23,-0.5,"Base payroll for 89,990 active employees."
+2025-03,Rent & Facilities,Operations,62421793.64,62111237.45,-310556.19,-0.5,Lease escalation and facility maintenance.
+2025-03,Marketing,Marketing,86185001.25,85756220.14,-428781.1,-0.5,Planned brand and demand-generation spend.
+2025-03,Logistics,Operations,52046939.22,51787999.22,-258940.0,-0.5,Base freight and distribution cost.
+2025-03,Technology,IT,37597860.16,37410806.13,-187054.03,-0.5,Core platforms and infrastructure.
+2025-03,Customer Support,Customer Support,19550161.09,19452896.61,-97264.48,-0.5,Service operations and contact-centre support.
+2025-03,Utilities,Operations,10618236.16,10565409.11,-52827.05,-0.5,Seasonal energy costs.
+2025-03,Supplies,Operations,14032481.09,13962667.75,-69813.34,-0.5,Warehouse consumables and packaging.
+2025-03,Professional Services,Legal,7991077.09,7951320.49,-39756.6,-0.5,External audit and legal advisory.
+2025-03,Other,Finance,9245567.39,9199569.54,-45997.85,-0.5,"Insurance, travel and miscellaneous."
+2025-04,Payroll,HR,578900211.57,576020111.01,-2880100.56,-0.5,"Base payroll for 89,990 active employees."
+2025-04,Rent & Facilities,Operations,62267969.52,61958178.62,-309790.89,-0.5,Lease escalation and facility maintenance.
+2025-04,Marketing,Marketing,85686515.76,85260214.69,-426301.07,-0.5,Planned brand and demand-generation spend.
+2025-04,Logistics,Operations,50404801.85,50154031.69,-250770.16,-0.5,Base freight and distribution cost.
+2025-04,Technology,IT,37182045.95,36997060.65,-184985.3,-0.5,Core platforms and infrastructure.
+2025-04,Customer Support,Customer Support,19593199.19,19495720.58,-97478.6,-0.5,Service operations and contact-centre support.
+2025-04,Utilities,Operations,9268104.97,9221995.0,-46109.97,-0.5,Seasonal energy costs.
+2025-04,Supplies,Operations,14683828.27,14610774.4,-73053.87,-0.5,Warehouse consumables and packaging.
+2025-04,Professional Services,Legal,7794965.64,7756184.72,-38780.92,-0.5,External audit and legal advisory.
+2025-04,Other,Finance,8862002.77,8817913.21,-44089.57,-0.5,"Insurance, travel and miscellaneous."
+2025-05,Payroll,HR,579777340.96,576892876.58,-2884464.38,-0.5,"Base payroll for 89,990 active employees."
+2025-05,Rent & Facilities,Operations,62192474.81,61883059.51,-309415.3,-0.5,Lease escalation and facility maintenance.
+2025-05,Marketing,Marketing,86607048.35,86176167.51,-430880.84,-0.5,Planned brand and demand-generation spend.
+2025-05,Logistics,Operations,57298192.95,57013127.31,-285065.64,-0.5,Base freight and distribution cost.
+2025-05,Technology,IT,36414546.18,36233379.29,-181166.9,-0.5,Core platforms and infrastructure.
+2025-05,Customer Support,Customer Support,19628045.23,19530393.26,-97651.97,-0.5,Service operations and contact-centre support.
+2025-05,Utilities,Operations,8906387.31,8862076.93,-44310.38,-0.5,Seasonal energy costs.
+2025-05,Supplies,Operations,14606054.38,14533387.44,-72666.94,-0.5,Warehouse consumables and packaging.
+2025-05,Professional Services,Legal,8217670.52,8176786.58,-40883.93,-0.5,External audit and legal advisory.
+2025-05,Other,Finance,8929320.42,8884895.94,-44424.48,-0.5,"Insurance, travel and miscellaneous."
+2025-06,Payroll,HR,580156941.16,577270588.22,-2886352.94,-0.5,"Base payroll for 89,990 active employees."
+2025-06,Rent & Facilities,Operations,62330427.78,62020326.15,-310101.63,-0.5,Lease escalation and facility maintenance.
+2025-06,Marketing,Marketing,87285198.53,86850943.81,-434254.72,-0.5,Planned brand and demand-generation spend.
+2025-06,Logistics,Operations,53416292.12,53150539.42,-265752.7,-0.5,Base freight and distribution cost.
+2025-06,Technology,IT,37588078.2,37401072.83,-187005.36,-0.5,Core platforms and infrastructure.
+2025-06,Customer Support,Customer Support,19960974.99,19861666.65,-99308.33,-0.5,Service operations and contact-centre support.
+2025-06,Utilities,Operations,9730732.49,9682320.88,-48411.6,-0.5,Seasonal energy costs.
+2025-06,Supplies,Operations,14740131.78,14666797.8,-73333.99,-0.5,Warehouse consumables and packaging.
+2025-06,Professional Services,Legal,7990747.15,7950992.19,-39754.96,-0.5,External audit and legal advisory.
+2025-06,Other,Finance,9351482.13,9304957.35,-46524.79,-0.5,"Insurance, travel and miscellaneous."
+2025-07,Payroll,HR,578230648.77,575353879.37,-2876769.4,-0.5,"Base payroll for 89,990 active employees."
+2025-07,Rent & Facilities,Operations,62159303.01,61850052.75,-309250.26,-0.5,Lease escalation and facility maintenance.
+2025-07,Marketing,Marketing,89263545.11,88819447.87,-444097.24,-0.5,Planned brand and demand-generation spend.
+2025-07,Logistics,Operations,55603247.56,55326614.49,-276633.07,-0.5,Base freight and distribution cost.
+2025-07,Technology,IT,36727563.22,36544839.02,-182724.2,-0.5,Core platforms and infrastructure.
+2025-07,Customer Support,Customer Support,19615210.26,19517622.15,-97588.11,-0.5,Service operations and contact-centre support.
+2025-07,Utilities,Operations,9828895.27,9779995.3,-48899.98,-0.5,Seasonal energy costs.
+2025-07,Supplies,Operations,14749819.18,14676436.99,-73382.18,-0.5,Warehouse consumables and packaging.
+2025-07,Professional Services,Legal,7869426.02,7830274.65,-39151.37,-0.5,External audit and legal advisory.
+2025-07,Other,Finance,9054078.48,9009033.32,-45045.17,-0.5,"Insurance, travel and miscellaneous."
+2025-08,Payroll,HR,579473527.99,576590575.11,-2882952.88,-0.5,"Base payroll for 89,990 active employees."
+2025-08,Rent & Facilities,Operations,62317190.0,62007154.23,-310035.77,-0.5,Lease escalation and facility maintenance.
+2025-08,Marketing,Marketing,95612885.06,95137199.06,-475686.0,-0.5,Planned brand and demand-generation spend.
+2025-08,Logistics,Operations,58586719.16,58295242.95,-291476.21,-0.5,Base freight and distribution cost.
+2025-08,Technology,IT,37364380.03,37178487.59,-185892.44,-0.5,Core platforms and infrastructure.
+2025-08,Customer Support,Customer Support,20213419.38,20112855.11,-100564.28,-0.5,Service operations and contact-centre support.
+2025-08,Utilities,Operations,10011683.74,9961874.37,-49809.37,-0.5,Seasonal energy costs.
+2025-08,Supplies,Operations,14720152.31,14646917.73,-73234.59,-0.5,Warehouse consumables and packaging.
+2025-08,Professional Services,Legal,8250043.92,8208998.93,-41044.99,-0.5,External audit and legal advisory.
+2025-08,Other,Finance,8996407.29,8951649.04,-44758.25,-0.5,"Insurance, travel and miscellaneous."
+2025-09,Payroll,HR,579334675.79,576452413.72,-2882262.07,-0.5,"Base payroll for 89,990 active employees."
+2025-09,Rent & Facilities,Operations,62510604.62,62199606.59,-310998.03,-0.5,Lease escalation and facility maintenance.
+2025-09,Marketing,Marketing,87582033.08,87146301.58,-435731.51,-0.5,Planned brand and demand-generation spend.
+2025-09,Logistics,Operations,53660538.9,53393571.04,-266967.86,-0.5,Base freight and distribution cost.
+2025-09,Technology,IT,36341660.79,36160856.51,-180804.28,-0.5,Core platforms and infrastructure.
+2025-09,Customer Support,Customer Support,19264129.87,19168288.43,-95841.44,-0.5,Service operations and contact-centre support.
+2025-09,Utilities,Operations,10037755.55,9987816.46,-49939.08,-0.5,Seasonal energy costs.
+2025-09,Supplies,Operations,14528519.33,14456238.14,-72281.19,-0.5,Warehouse consumables and packaging.
+2025-09,Professional Services,Legal,7966738.46,7927102.95,-39635.51,-0.5,External audit and legal advisory.
+2025-09,Other,Finance,8912248.31,8867908.77,-44339.54,-0.5,"Insurance, travel and miscellaneous."
+2025-10,Payroll,HR,579532048.67,576648804.64,-2883244.02,-0.5,"Base payroll for 89,990 active employees."
+2025-10,Rent & Facilities,Operations,62127980.78,61818886.35,-309094.43,-0.5,Lease escalation and facility maintenance.
+2025-10,Marketing,Marketing,95035551.61,94562737.92,-472813.69,-0.5,Planned brand and demand-generation spend.
+2025-10,Logistics,Operations,59583172.79,59286739.1,-296433.7,-0.5,Base freight and distribution cost.
+2025-10,Technology,IT,37699939.71,37512377.82,-187561.89,-0.5,Core platforms and infrastructure.
+2025-10,Customer Support,Customer Support,20018880.87,19919284.45,-99596.42,-0.5,Service operations and contact-centre support.
+2025-10,Utilities,Operations,9588901.46,9541195.48,-47705.98,-0.5,Seasonal energy costs.
+2025-10,Supplies,Operations,14929808.34,14855530.69,-74277.65,-0.5,Warehouse consumables and packaging.
+2025-10,Professional Services,Legal,8372903.3,8331247.06,-41656.24,-0.5,External audit and legal advisory.
+2025-10,Other,Finance,8887240.54,8843025.41,-44215.13,-0.5,"Insurance, travel and miscellaneous."
+2025-11,Payroll,HR,579789132.33,576904609.28,-2884523.05,-0.5,"Base payroll for 89,990 active employees."
+2025-11,Rent & Facilities,Operations,62469639.2,62158844.97,-310794.22,-0.5,Lease escalation and facility maintenance.
+2025-11,Marketing,Marketing,104124088.38,103606058.09,-518030.29,-0.5,Planned brand and demand-generation spend.
+2025-11,Logistics,Operations,61140708.34,60836525.71,-304182.63,-0.5,Base freight and distribution cost.
+2025-11,Technology,IT,37974259.46,37785332.79,-188926.66,-0.5,Core platforms and infrastructure.
+2025-11,Customer Support,Customer Support,20726948.52,20623829.37,-103119.15,-0.5,Service operations and contact-centre support.
+2025-11,Utilities,Operations,10073952.27,10023833.1,-50119.17,-0.5,Seasonal energy costs.
+2025-11,Supplies,Operations,14903732.88,14829584.95,-74147.92,-0.5,Warehouse consumables and packaging.
+2025-11,Professional Services,Legal,7965717.93,7926087.49,-39630.44,-0.5,External audit and legal advisory.
+2025-11,Other,Finance,9233771.4,9187832.24,-45939.16,-0.5,"Insurance, travel and miscellaneous."
+2025-12,Payroll,HR,579356851.5,576474479.1,-2882372.4,-0.5,"Base payroll for 89,990 active employees."
+2025-12,Rent & Facilities,Operations,62306912.95,61996928.31,-309984.64,-0.5,Lease escalation and facility maintenance.
+2025-12,Marketing,Marketing,112474375.43,111914801.43,-559574.01,-0.5,Planned brand and demand-generation spend.
+2025-12,Logistics,Operations,65698239.63,65371382.72,-326856.91,-0.5,Base freight and distribution cost.
+2025-12,Technology,IT,38665338.11,38472973.24,-192364.87,-0.5,Core platforms and infrastructure.
+2025-12,Customer Support,Customer Support,20623645.06,20521039.86,-102605.2,-0.5,Service operations and contact-centre support.
+2025-12,Utilities,Operations,10972101.3,10917513.73,-54587.57,-0.5,Seasonal energy costs.
+2025-12,Supplies,Operations,15180178.28,15104655.0,-75523.28,-0.5,Warehouse consumables and packaging.
+2025-12,Professional Services,Legal,7987413.04,7947674.66,-39738.37,-0.5,External audit and legal advisory.
+2025-12,Other,Finance,8876487.27,8832325.64,-44161.63,-0.5,"Insurance, travel and miscellaneous."
+2026-01,Payroll,HR,596544264.41,592985317.1,-3558947.31,-0.6,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-01,Rent & Facilities,Operations,63860000.0,63994641.71,134641.71,0.21,Lease escalation and facility maintenance.
+2026-01,Marketing,Marketing,90644738.2,103449378.59,12804640.4,14.13,"Brand campaign, retention activity and markdown support."
+2026-01,Logistics,Operations,54863920.49,65075860.16,10211939.67,18.61,Expedited freight and split shipments to protect electronics orders.
+2026-01,Technology,IT,38770775.69,44563695.2,5792919.51,14.94,"Cloud, cybersecurity and ERP licence renewal."
+2026-01,Customer Support,Customer Support,20578081.77,24808753.88,4230672.11,20.56,Additional seasonal agents and CRM support.
+2026-01,Utilities,Operations,12075000.0,12710059.76,635059.76,5.26,Seasonal energy costs.
+2026-01,Supplies,Operations,15385387.85,15204791.25,-180596.6,-1.17,Warehouse consumables and packaging.
+2026-01,Professional Services,Legal,8500000.0,8448582.03,-51417.97,-0.6,External audit and legal advisory.
+2026-01,Other,Finance,9000000.0,9097768.73,97768.73,1.09,"Insurance, travel and miscellaneous."
+2026-02,Payroll,HR,596544264.41,594014530.43,-2529733.98,-0.42,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-02,Rent & Facilities,Operations,63860000.0,63865160.71,5160.71,0.01,Lease escalation and facility maintenance.
+2026-02,Marketing,Marketing,86310726.42,95413509.36,9102782.95,10.55,"Brand campaign, retention activity and markdown support."
+2026-02,Logistics,Operations,52240702.83,61008633.33,8767930.5,16.78,Expedited freight and split shipments to protect electronics orders.
+2026-02,Technology,IT,38542669.81,43276685.33,4734015.52,12.28,"Cloud, cybersecurity and ERP licence renewal."
+2026-02,Customer Support,Customer Support,20407002.36,24061851.24,3654848.88,17.91,Additional seasonal agents and CRM support.
+2026-02,Utilities,Operations,11760000.0,12620733.95,860733.95,7.32,Seasonal energy costs.
+2026-02,Supplies,Operations,15271334.91,14889675.6,-381659.3,-2.5,Warehouse consumables and packaging.
+2026-02,Professional Services,Legal,8500000.0,8423729.72,-76270.28,-0.9,External audit and legal advisory.
+2026-02,Other,Finance,9000000.0,8957497.12,-42502.88,-0.47,"Insurance, travel and miscellaneous."
+2026-03,Payroll,HR,596544264.41,593309517.71,-3234746.7,-0.54,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-03,Rent & Facilities,Operations,63860000.0,63920471.82,60471.82,0.09,Lease escalation and facility maintenance.
+2026-03,Marketing,Marketing,93870143.55,104141755.99,10271612.44,10.94,"Brand campaign, retention activity and markdown support."
+2026-03,Logistics,Operations,56816139.52,65965841.55,9149702.03,16.1,Expedited freight and split shipments to protect electronics orders.
+2026-03,Technology,IT,38940533.87,43888048.59,4947514.72,12.71,"Cloud, cybersecurity and ERP licence renewal."
+2026-03,Customer Support,Customer Support,20705400.4,24399138.67,3693738.27,17.84,Additional seasonal agents and CRM support.
+2026-03,Utilities,Operations,11025000.0,11716946.02,691946.02,6.28,Seasonal energy costs.
+2026-03,Supplies,Operations,15470266.94,15407592.73,-62674.2,-0.41,Warehouse consumables and packaging.
+2026-03,Professional Services,Legal,8500000.0,8693571.98,193571.98,2.28,External audit and legal advisory.
+2026-03,Other,Finance,9000000.0,8812230.84,-187769.16,-2.09,"Insurance, travel and miscellaneous."
+2026-04,Payroll,HR,596544264.41,593376884.38,-3167380.03,-0.53,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-04,Rent & Facilities,Operations,63860000.0,63961085.26,101085.26,0.16,Lease escalation and facility maintenance.
+2026-04,Marketing,Marketing,92110367.56,99945959.99,7835592.43,8.51,"Brand campaign, retention activity and markdown support."
+2026-04,Logistics,Operations,55751011.95,64379671.0,8628659.05,15.48,Expedited freight and split shipments to protect electronics orders.
+2026-04,Technology,IT,38847914.08,42628050.26,3780136.18,9.73,"Cloud, cybersecurity and ERP licence renewal."
+2026-04,Customer Support,Customer Support,20635935.56,24308274.58,3672339.02,17.8,Additional seasonal agents and CRM support.
+2026-04,Utilities,Operations,9975000.0,9928709.92,-46290.08,-0.46,Seasonal energy costs.
+2026-04,Supplies,Operations,15423957.04,15441220.09,17263.05,0.11,Warehouse consumables and packaging.
+2026-04,Professional Services,Legal,8500000.0,8636884.48,136884.48,1.61,External audit and legal advisory.
+2026-04,Other,Finance,9000000.0,8953285.42,-46714.58,-0.52,"Insurance, travel and miscellaneous."
+2026-05,Payroll,HR,596544264.41,594687849.33,-1856415.08,-0.31,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-05,Rent & Facilities,Operations,63860000.0,63904287.25,44287.25,0.07,Lease escalation and facility maintenance.
+2026-05,Marketing,Marketing,96664608.17,100601730.33,3937122.15,4.07,"Brand campaign, retention activity and markdown support."
+2026-05,Logistics,Operations,58507526.0,64186198.22,5678672.22,9.71,Expedited freight and split shipments to protect electronics orders.
+2026-05,Technology,IT,39087610.96,43970445.01,4882834.06,12.49,"Cloud, cybersecurity and ERP licence renewal."
+2026-05,Customer Support,Customer Support,20815708.22,24853882.6,4038174.38,19.4,Additional seasonal agents and CRM support.
+2026-05,Utilities,Operations,9450000.0,9721705.87,271705.87,2.88,Seasonal energy costs.
+2026-05,Supplies,Operations,15543805.48,15167368.29,-376437.19,-2.42,Warehouse consumables and packaging.
+2026-05,Professional Services,Legal,8500000.0,14703925.63,6203925.63,72.99,One-time ERP and compliance review.
+2026-05,Other,Finance,9000000.0,8915168.62,-84831.38,-0.94,"Insurance, travel and miscellaneous."
+2026-06,Payroll,HR,596544264.41,594130147.39,-2414117.02,-0.4,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-06,Rent & Facilities,Operations,63860000.0,64127994.05,267994.05,0.42,Lease escalation and facility maintenance.
+2026-06,Marketing,Marketing,99933350.27,99574030.44,-359319.83,-0.36,"Brand campaign, retention activity and markdown support."
+2026-06,Logistics,Operations,60485975.17,65629615.41,5143640.24,8.5,Expedited freight and split shipments to protect electronics orders.
+2026-06,Technology,IT,39259650.01,44097527.08,4837877.07,12.32,"Cloud, cybersecurity and ERP licence renewal."
+2026-06,Customer Support,Customer Support,20944737.51,25012105.26,4067367.75,19.42,Additional seasonal agents and CRM support.
+2026-06,Utilities,Operations,9975000.0,10519930.02,544930.02,5.46,Seasonal energy costs.
+2026-06,Supplies,Operations,15629825.01,15510799.72,-119025.28,-0.76,Warehouse consumables and packaging.
+2026-06,Professional Services,Legal,8500000.0,14064569.23,5564569.23,65.47,One-time ERP and compliance review.
+2026-06,Other,Finance,9000000.0,9168682.53,168682.53,1.87,"Insurance, travel and miscellaneous."
+2026-07,Payroll,HR,596544264.41,593479105.24,-3065159.17,-0.51,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-07,Rent & Facilities,Operations,63860000.0,64150473.72,290473.72,0.45,Lease escalation and facility maintenance.
+2026-07,Marketing,Marketing,98926992.04,100554197.46,1627205.42,1.64,"Brand campaign, retention activity and markdown support."
+2026-07,Logistics,Operations,59876863.6,62826595.76,2949732.16,4.93,Expedited freight and split shipments to protect electronics orders.
+2026-07,Technology,IT,39206683.79,44203966.49,4997282.7,12.75,"Cloud, cybersecurity and ERP licence renewal."
+2026-07,Customer Support,Customer Support,20905012.84,24580282.6,3675269.76,17.58,Additional seasonal agents and CRM support.
+2026-07,Utilities,Operations,10500000.0,10939874.41,439874.41,4.19,Seasonal energy costs.
+2026-07,Supplies,Operations,15603341.9,15290222.75,-313119.15,-2.01,Warehouse consumables and packaging.
+2026-07,Professional Services,Legal,8500000.0,8776317.38,276317.38,3.25,External audit and legal advisory.
+2026-07,Other,Finance,9000000.0,8881915.82,-118084.18,-1.31,"Insurance, travel and miscellaneous."
+2026-08,Payroll,HR,596544264.41,593549202.47,-2995061.94,-0.5,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-08,Rent & Facilities,Operations,63860000.0,63850770.45,-9229.55,-0.01,Lease escalation and facility maintenance.
+2026-08,Marketing,Marketing,102940989.04,101391563.02,-1549426.02,-1.51,"Brand campaign, retention activity and markdown support."
+2026-08,Logistics,Operations,62306388.1,63656210.58,1349822.47,2.17,Expedited freight and split shipments to protect electronics orders.
+2026-08,Technology,IT,39417946.79,43227234.76,3809287.97,9.66,"Cloud, cybersecurity and ERP licence renewal."
+2026-08,Customer Support,Customer Support,21063460.09,24799375.67,3735915.57,17.74,Additional seasonal agents and CRM support.
+2026-08,Utilities,Operations,10500000.0,11218489.74,718489.74,6.84,Seasonal energy costs.
+2026-08,Supplies,Operations,15708973.4,15138830.37,-570143.02,-3.63,Warehouse consumables and packaging.
+2026-08,Professional Services,Legal,8500000.0,8429640.73,-70359.27,-0.83,External audit and legal advisory.
+2026-08,Other,Finance,9000000.0,8712178.26,-287821.74,-3.2,"Insurance, travel and miscellaneous."
+2026-09,Payroll,HR,596544264.41,592984907.25,-3559357.16,-0.6,"Active headcount 89,990; 3% merit cycle effective January 2026."
+2026-09,Rent & Facilities,Operations,63860000.0,64175950.99,315950.99,0.49,Lease escalation and facility maintenance.
+2026-09,Marketing,Marketing,96972742.21,92335563.05,-4637179.16,-4.78,"Brand campaign, retention activity and markdown support."
+2026-09,Logistics,Operations,58694028.18,59701553.23,1007525.05,1.72,Expedited freight and split shipments to protect electronics orders.
+2026-09,Technology,IT,39103828.54,43503910.12,4400081.58,11.25,"Cloud, cybersecurity and ERP licence renewal."
+2026-09,Customer Support,Customer Support,20827871.4,23927520.16,3099648.76,14.88,Additional seasonal agents and CRM support.
+2026-09,Utilities,Operations,10290000.0,10590515.83,300515.83,2.92,Seasonal energy costs.
+2026-09,Supplies,Operations,15551914.27,15152164.23,-399750.04,-2.57,Warehouse consumables and packaging.
+2026-09,Professional Services,Legal,8500000.0,8643103.17,143103.17,1.68,External audit and legal advisory.
+2026-09,Other,Finance,9000000.0,8981879.4,-18120.6,-0.2,"Insurance, travel and miscellaneous."

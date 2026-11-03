@@ -1,0 +1,10 @@
+Department,Approved_Headcount,Active_Headcount,Open_Requisitions,Attrition_Rate_Pct,Avg_Training_Hours,Training_Target_Hours,Monthly_Salary_Budget,Notes
+Customer Support,10318,10018,300,9.88,49.5,60,64209550.0,Critical customer-facing roles; hiring freeze exception.
+Engineering,10039,9899,140,9.65,49.9,60,63586250.0,Product and platform roles; annual plan approved.
+Finance,10060,10020,40,10.54,49.7,60,64052700.0,Limited hiring; focus on analytical capability.
+HR,9885,9835,50,10.26,49.6,60,62957350.0,Recruiting and employee relations capability.
+IT,10187,10067,120,9.56,49.2,60,64562400.0,Priority roles: data engineering and cybersecurity.
+Legal,10002,9982,20,10.22,49.8,60,63808350.0,Low volume; contract support.
+Marketing,10151,10091,60,10.03,49.3,60,64383950.0,Digital and retention roles only.
+Operations,10310,10060,250,10.03,49.2,60,64543400.0,Largest hiring need; warehouse and supply-chain roles.
+Sales,10198,10018,180,9.93,49.2,60,64183800.0,Selective hiring; wholesale account coverage.

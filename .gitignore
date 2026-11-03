@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local assistant configuration
+.commandcode/
+
+# Lab runtime data
+sessions/*
+!sessions/.gitkeep
+exports/*
+!exports/.gitkeep
+sessions/lab.db
+sessions/lab.db-wal
+sessions/lab.db-shm
+sessions/ACTIVE_SESSION
+sessions/turn.json
+sessions/*.tmp
+sessions/*.tmp.json
+
+# Temporary files
+*.tmp
+~$*.csv
+~$*.xlsx
+.streamlit/secrets.toml
+
+# Distribution archives
+dist/*.zip

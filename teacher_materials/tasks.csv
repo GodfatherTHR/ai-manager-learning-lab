@@ -1,0 +1,31 @@
+Task_ID,Task_Name,Department,Owner_Role,Priority,Status,Start_Date,Due_Date,Percent_Complete,Budget,Spent,Risk_Level,Notes
+T-001,Q4 e-commerce recovery plan,Marketing,VP Marketing,Critical,In Progress,2026-09-01,2026-10-15,35,250000,90000,High,Conversion rate down 18% year on year; channel plan required.
+T-002,Electronics replenishment programme,Operations,"Director, Supply Chain",Critical,In Progress,2026-08-15,2026-10-10,55,1200000,800000,High,North and East DCs below reorder point on several SKUs.
+T-003,Seasonal inventory clearance,Operations,VP Operations,High,Not Started,2026-10-01,2026-12-15,0,300000,0,Medium,West and South DCs carry excess seasonal stock.
+T-004,Customer response time reduction,Customer Support,VP Customer Support,High,Blocked,2026-07-01,2026-09-30,40,180000,120000,High,Due 30 September; CRM integration dependency unresolved.
+T-005,Sales pipeline review,Sales,VP Sales,High,In Progress,2026-08-01,2026-10-31,60,75000,40000,Medium,Wholesale renewal risk and retail conversion weakness.
+T-006,Performance rating calibration,HR,CHRO,High,In Progress,2026-09-01,2026-11-30,20,50000,10000,Medium,Rating distribution is almost uniform; manager calibration needed.
+T-007,Delegation and approval limits refresh,HR,COO,Medium,Not Started,2026-10-15,2026-12-31,0,25000,0,Low,Clarify decision rights across functions and regions.
+T-008,ERP procurement module rollout,IT,CIO,Medium,Blocked,2026-05-01,2026-11-30,30,600000,220000,High,Vendor dependency and master-data ownership issues.
+T-009,Warehouse labour scheduling pilot,Operations,"Director, Fulfilment",High,In Progress,2026-07-15,2026-11-15,45,140000,70000,Medium,Overtime remains above target in two DCs.
+T-010,Marketing spend effectiveness review,Marketing,VP Marketing,High,Not Started,2026-10-05,2026-11-20,0,40000,0,Medium,Marketing ratio has risen while revenue has fallen.
+T-011,Wholesale contract renewal,Sales,VP Sales,High,In Progress,2026-08-01,2026-10-31,65,30000,18000,Medium,Two contracts representing 6% of revenue are under review.
+T-012,Team lead coaching programme,HR,CHRO,Medium,In Progress,2026-06-01,2026-12-15,50,110000,55000,Low,First-line leader capability and feedback quality.
+T-013,Monthly operating review redesign,Finance,CFO,Medium,Not Started,2026-10-15,2026-12-01,0,15000,0,Low,Move from reporting to action tracking.
+T-014,Supplier lead-time renegotiation,Operations,"Director, Procurement",High,In Progress,2026-07-01,2026-10-20,40,20000,8000,Medium,Electronics lead times remain volatile.
+T-015,Returns reduction initiative,Customer Support,VP Customer Support,Medium,In Progress,2026-06-15,2026-12-31,35,90000,35000,Medium,Electronics return rate is above plan.
+T-016,Store labour productivity pilot,Operations,VP Operations,Medium,In Progress,2026-08-01,2027-01-31,25,160000,40000,Medium,Test scheduling model in 12 stores.
+T-017,Digital shelf content refresh,Marketing,"Director, Digital",Medium,Complete,2026-04-01,2026-08-31,100,80000,78000,Low,Completed; conversion uplift not yet isolated.
+T-018,Remote work policy review,HR,CHRO,Low,Not Started,2026-11-01,2027-01-31,0,10000,0,Low,Review hybrid expectations by role.
+T-019,Customer retention campaign,Marketing,VP Marketing,High,In Progress,2026-08-15,2026-11-30,30,200000,60000,High,Target repeat buyers with declining satisfaction.
+T-020,Inventory data cleanup,IT,CIO,Medium,Blocked,2026-06-01,2026-09-15,20,120000,45000,High,Past due; master-data ownership unclear.
+T-021,Budget variance dashboard,Finance,CFO,Medium,In Progress,2026-07-01,2026-10-31,70,45000,30000,Low,Automate category-level variance reporting.
+T-022,Cross-functional S&OP cadence,Operations,COO,High,Not Started,2026-10-01,2026-12-15,0,35000,0,Medium,Single demand and supply review each month.
+T-023,Safety stock policy update,Operations,"Director, Supply Chain",High,Not Started,2026-10-01,2026-11-30,0,20000,0,Medium,Policy has not kept pace with lead-time volatility.
+T-024,Electronics supplier diversification,Operations,"Director, Procurement",High,In Progress,2026-09-01,2027-02-28,15,50000,5000,Medium,Reduce single-supplier concentration.
+T-025,Complaint root-cause analysis,Customer Support,"Director, Service Quality",High,In Progress,2026-08-01,2026-10-15,55,30000,14000,Medium,Late delivery and unavailable items dominate complaints.
+T-026,Q4 seasonal staffing plan,HR,CHRO,High,In Progress,2026-09-15,2026-10-31,50,60000,20000,Medium,Customer support and warehouse roles are priority.
+T-027,Pricing and discount guardrails,Finance,CFO,High,Not Started,2026-10-15,2026-12-01,0,25000,0,Medium,Discount depth has increased faster than volume.
+T-028,Warehouse cycle count audit,Operations,"Director, Fulfilment",Medium,Complete,2026-07-01,2026-08-31,100,18000,17000,Low,Completed; two SKU count variances remain open.
+T-029,Executive scorecard refresh,Finance,CFO,Medium,In Progress,2026-09-01,2026-11-15,40,20000,8000,Low,Align measures with the recovery plan.
+T-030,Customer refund process redesign,Customer Support,VP Customer Support,Medium,In Progress,2026-07-15,2026-11-30,60,70000,42000,Medium,Refund delays are a recurring complaint theme.

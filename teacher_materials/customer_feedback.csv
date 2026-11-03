@@ -1,0 +1,85 @@
+Month,Region,Survey_Responses,CSAT,NPS,Complaints,Avg_Response_Hours,Top_Complaint
+2025-01,North,1462,79.9,34.1,802,6.4,Product unavailable
+2025-01,South,1158,82.0,34.8,541,6.9,Late delivery
+2025-01,East,1307,81.3,32.1,588,6.5,Late delivery
+2025-01,West,1312,81.1,30.3,658,5.6,Late delivery
+2025-02,North,1153,80.1,28.9,697,6.9,Late delivery
+2025-02,South,981,82.5,32.4,706,5.4,Refund delay
+2025-02,East,1429,78.9,32.1,600,6.4,Late delivery
+2025-02,West,1305,81.5,29.3,713,5.4,Incorrect product information
+2025-03,North,1333,79.7,34.5,692,5.6,Support response time
+2025-03,South,1461,81.0,26.8,595,5.3,Late delivery
+2025-03,East,1007,79.7,31.9,601,5.5,Damaged item
+2025-03,West,1504,81.0,31.7,621,5.4,Refund delay
+2025-04,North,1146,77.5,30.0,784,6.2,Refund delay
+2025-04,South,1163,80.8,30.4,625,6.7,Product unavailable
+2025-04,East,1339,79.6,30.0,711,5.7,Late delivery
+2025-04,West,995,81.3,35.0,683,5.9,Support response time
+2025-05,North,1130,79.7,31.2,603,6.4,Support response time
+2025-05,South,1067,82.2,33.8,594,6.8,Refund delay
+2025-05,East,1184,81.0,26.2,531,6.9,Late delivery
+2025-05,West,1287,82.6,31.6,675,5.3,Refund delay
+2025-06,North,954,79.2,34.1,852,6.2,Late delivery
+2025-06,South,990,80.8,34.0,589,7.0,Late delivery
+2025-06,East,1092,79.7,28.8,645,5.4,Damaged item
+2025-06,West,1107,81.3,28.3,554,6.5,Late delivery
+2025-07,North,1118,78.5,31.6,859,6.2,Support response time
+2025-07,South,1352,81.3,29.4,665,5.9,Incorrect product information
+2025-07,East,1219,80.1,30.6,605,5.7,Refund delay
+2025-07,West,1232,80.7,31.2,544,5.5,Product unavailable
+2025-08,North,1353,79.9,28.8,735,6.7,Support response time
+2025-08,South,1275,80.3,31.9,756,6.2,Product unavailable
+2025-08,East,984,79.0,32.4,593,6.5,Product unavailable
+2025-08,West,1044,81.2,30.9,718,6.3,Refund delay
+2025-09,North,1041,78.3,36.0,826,6.4,Late delivery
+2025-09,South,1205,81.2,32.6,681,6.4,Damaged item
+2025-09,East,1235,80.7,31.6,690,5.6,Damaged item
+2025-09,West,1054,80.0,29.7,739,5.6,Late delivery
+2025-10,North,1043,78.7,26.5,659,6.7,Product unavailable
+2025-10,South,1051,81.1,36.1,636,6.6,Late delivery
+2025-10,East,1012,79.7,29.0,697,6.7,Support response time
+2025-10,West,1430,79.6,29.8,564,6.7,Late delivery
+2025-11,North,1309,78.1,31.7,711,6.4,Product unavailable
+2025-11,South,1103,81.4,31.4,627,6.3,Product unavailable
+2025-11,East,1409,78.5,27.1,606,6.0,Damaged item
+2025-11,West,1182,81.6,31.8,702,6.0,Damaged item
+2025-12,North,1422,78.5,29.7,642,5.8,Late delivery
+2025-12,South,1036,82.5,28.0,745,5.5,Damaged item
+2025-12,East,1515,80.6,29.6,722,6.3,Support response time
+2025-12,West,1016,81.7,30.1,689,5.4,Support response time
+2026-01,North,1546,69.1,20.2,1271,10.3,Damaged item
+2026-01,South,1423,72.4,18.8,1173,10.6,Product unavailable
+2026-01,East,1137,70.1,18.8,1157,13.2,Late delivery
+2026-01,West,1168,72.5,16.7,1269,11.5,Product unavailable
+2026-02,North,1265,68.7,15.3,1601,12.5,Support response time
+2026-02,South,1243,71.6,12.5,1087,9.4,Product unavailable
+2026-02,East,1146,71.6,17.4,1202,10.2,Late delivery
+2026-02,West,1262,70.8,10.5,1409,12.1,Late delivery
+2026-03,North,1097,68.9,10.9,1325,12.4,Product unavailable
+2026-03,South,986,72.7,16.8,1191,12.0,Product unavailable
+2026-03,East,1328,71.0,14.7,1050,13.4,Incorrect product information
+2026-03,West,1403,72.1,14.9,1102,11.1,Late delivery
+2026-04,North,1063,69.9,15.5,1598,9.5,Late delivery
+2026-04,South,1086,72.5,15.4,1272,11.4,Support response time
+2026-04,East,1549,70.6,14.1,1406,11.6,Late delivery
+2026-04,West,1522,72.5,16.6,1330,9.1,Damaged item
+2026-05,North,1250,70.6,12.5,1556,11.4,Support response time
+2026-05,South,1334,72.2,13.3,1178,9.4,Refund delay
+2026-05,East,1131,71.4,14.5,1094,10.5,Product unavailable
+2026-05,West,1110,71.1,16.1,1164,11.5,Incorrect product information
+2026-06,North,1511,70.9,18.7,1564,13.4,Product unavailable
+2026-06,South,1384,72.6,14.8,1436,11.7,Refund delay
+2026-06,East,1192,71.8,18.4,1232,13.0,Late delivery
+2026-06,West,1435,73.3,14.8,1181,9.9,Damaged item
+2026-07,North,998,70.3,10.8,1619,11.5,Support response time
+2026-07,South,1055,73.4,12.4,1158,13.3,Refund delay
+2026-07,East,1193,70.3,12.1,1423,10.0,Support response time
+2026-07,West,1043,72.7,12.7,1336,13.2,Late delivery
+2026-08,North,1017,69.9,9.3,1640,10.9,Damaged item
+2026-08,South,959,73.3,10.3,1324,13.0,Support response time
+2026-08,East,980,72.1,7.5,1126,9.4,Late delivery
+2026-08,West,962,73.1,16.1,1274,10.7,Late delivery
+2026-09,North,1256,71.8,10.0,1572,11.4,Refund delay
+2026-09,South,1248,71.4,12.7,1285,12.8,Product unavailable
+2026-09,East,1278,71.3,8.0,1173,10.1,Refund delay
+2026-09,West,1445,71.7,12.6,1421,9.1,Damaged item

@@ -1,0 +1,8 @@
+# Session history
+
+The lab stores sessions in `lab.db` and keeps the active session ID in `ACTIVE_SESSION`. These runtime files are ignored by git and are not part of the student's submission.
+
+The student submits only:
+
+1. The PDF session report.
+2. The ZIP of active Markdown instruction files.
